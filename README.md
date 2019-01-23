@@ -13,7 +13,7 @@
     </tr>
     <tr>
       <td><font color="green" style="黑体" >PASSWORD:</font></td>
-      <td align="left"><input name="password" type="password" placeholder="input your password" required pattern="777"></td>
+      <td align="left"><input name="password" type="password" placeholder="input your password" required pattern="7777"></td>
     </tr>  
     <tr>
       <td><button type="submit" onClick="location.href='www.baidu.com'">SUBMIT</button></td>
