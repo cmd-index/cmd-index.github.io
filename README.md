@@ -16,7 +16,7 @@
       <td align="left"><input name="password" type="password" placeholder="input your password" required pattern="7777"></td>
     </tr>  
     <tr>
-      <td><button type="submit" onClick="location.href='www.baidu.com'">SUBMIT</button></td>
+      <td><button type="submit" onClick="location.href='http://www.baidu.com'">SUBMIT</button></td>
     </tr>
   </tbody>
 </table>
